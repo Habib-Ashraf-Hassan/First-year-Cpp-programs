@@ -1,5 +1,6 @@
 Program to check if a credit card is valid or not by the use of Luhn Algorithm
 ##Summary of Luhn Algorithm
+
 1-Double every 2nd digit from right to left , if dooubled number is a 2digit number then split it
 2-Add all single digits from step 1
 3-Add all odd placed digits from right to left
